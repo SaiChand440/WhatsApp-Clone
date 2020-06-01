@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "178578229880",
+    "firebase_url": "https://nitr-chat.firebaseio.com",
+    "project_id": "nitr-chat",
+    "storage_bucket": "nitr-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178578229880:android:82e061239ecabf30933b8d",
+        "android_client_info": {
+          "package_name": "com.chandhu.nitrchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178578229880-30g5g7nkmv13d8vqkoj03m3khdbih9uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIERz1yDc2qzDX5AS5b0-vNPh4qA7W0dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178578229880-30g5g7nkmv13d8vqkoj03m3khdbih9uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
